@@ -1,0 +1,16 @@
+requests~=2.31.0
+requests-html==0.10.0
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+jupyter
+scipy
+Pyarrow
+statsmodels
+scikit-learn
+seaborn-qqplot
+nbconvert
+pygam
